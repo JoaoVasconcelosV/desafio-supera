@@ -1,0 +1,65 @@
+[
+  {
+    "id": 312,
+    "name": "Super Mario Odyssey",
+    "price": 197.88,
+    "score": 100,
+    "image": "https://upload.wikimedia.org/wikipedia/pt/9/99/Super_Mario_Odyssey_Capa.png"
+  },
+  {
+    "id": 201,
+    "name": "Call Of Duty Infinite Warfare",
+    "price": 49.99,
+    "score": 80,
+    "image": "https://i1.wp.com/www.otakupt.com/wp-content/uploads/2016/06/Cae68x960.jpg?resize=640%2C800&ssl=1"
+  },
+  {
+    "id": 102,
+    "name": "The Witcher III Wild Hunt",
+    "price": 119.5,
+    "score": 250,
+    "image": "https://cdn.iset.io/assets/56293/produtos/145/the_witcher_3_capa_ps4.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Call Of Duty WWII",
+    "price": 249.99,
+    "score": 205,
+    "image": "https://sites.google.com/site/callofdutywwiips4duplex/_/rsrc/1527955143742/home/Call.of.Duty.WW.II.PS4-DUPLEX.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Mortal Kombat XL",
+    "price": 69.99,
+    "score": 150,
+    "image": "https://m.media-amazon.com/images/I/81AOIbFiuXL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Shards of Darkness",
+    "price": 71.94,
+    "score": 400,
+    "image": "https://capas-m2.wmixvideo.com.br/cr193065.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Terra Média: Sombras de Mordor",
+    "price": 79.99,
+    "score": 50,
+    "image": "https://cdn.ome.lt/35sFT48qRWZuxXEtXjltXn8BUec=/770x0/smart/uploads/conteudo/fotos/mbtqbe5xaudosr9v4ya2.png"
+  },
+  {
+    "id": 420,
+    "name": "FIFA 18",
+    "price": 195.39,
+    "score": 325,
+    "image": "https://www.fifauteam.com/wp-content/uploads/2017/08/A1503-15.jpg"
+  },
+  {
+    "id": 501,
+    "name": "Horizon Zero Dawn",
+    "price": 115.8,
+    "score": 290,
+    "image": "https://bdjogos.com.br/capas/3336-Horizon-Zero-Dawn-Playstation-4-capa-1.jpg"
+  }
+]
