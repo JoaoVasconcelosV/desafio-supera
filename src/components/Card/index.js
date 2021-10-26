@@ -10,7 +10,7 @@ export default function Card(props) {
       <img src={props.product.image} alt={props.product.name} />
       <div>
         <span>{ props.product.name }</span>
-        <span>score: { props.product.score }</span>
+        <span>Score: { props.product.score }</span>
         <span>R$ { props.product.price.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'}) }</span>
         <button onClick={() => {
           props.noti(setProductsInCart(props.product));                    
