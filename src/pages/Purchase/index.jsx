@@ -1,5 +1,5 @@
 import { useContext, useState, useEffect } from 'react';
-import Header from '../../components/Header';
+import Header from '../../components/Header/index.jsx';
 import { ProductContext } from '../../contexts/ProductContext';
 import TrashIcon from '../../assets/trash.svg'
 import { ToastContainer, toast } from 'react-toastify';

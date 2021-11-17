@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
-import Header from '../../components/Header';
-import Card from "../../components/Card"
+import Header from '../../components/Header/index.jsx';
+import Card from "../../components/Card/index.jsx"
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import "./styles.css"

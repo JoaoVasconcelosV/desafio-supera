@@ -1,8 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 
-import Home from './pages/Home';
-import Purchase from './pages/Purchase';
+import Home from './pages/Home/index.jsx';
+import Purchase from './pages/Purchase/index.jsx';
 
 export default function Routes () {
   return (
