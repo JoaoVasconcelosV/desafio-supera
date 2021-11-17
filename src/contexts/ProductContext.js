@@ -52,8 +52,7 @@ const ProductContextProvider = ({ children }) => {
 
   const changeQuantity = (val, index) => {
     let products = product;
-    products.productsInCart[index].quantity += val;    
-    console.log(products)
+    products.productsInCart[index].quantity += val;        
     setProduct(products);
   }  
   
