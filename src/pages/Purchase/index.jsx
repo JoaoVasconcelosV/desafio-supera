@@ -9,7 +9,7 @@ import './styles.css'
 export default function Purchase () {
   const [subtotal, setSubtotal] = useState();
   const [frete, setFrete] = useState();
-  const { checkout, removeProduct, product } = useContext(ProductContext) 
+  const { checkout, removeProduct, product, changeQuantity } = useContext(ProductContext) 
   
   useEffect(() => {
     let valorTotal = 0;
@@ -52,7 +52,7 @@ export default function Purchase () {
                       <span>{ product.name }</span>
                     </td>
                     <td>                      
-                      { product.quantity }                      
+                      { product.quantity }
                     </td>
                     <td>R$ { product.price }</td>
                     <td>R$ { product.price * product.quantity }</td>
